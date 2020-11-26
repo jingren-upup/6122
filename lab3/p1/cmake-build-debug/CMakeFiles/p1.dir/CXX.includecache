@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/6122/lab3/p1/p1/SudokuGrid.h
+string
+-
+
+E:/6122/lab3/p1/p1/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+SudokuGrid.h
+E:/6122/lab3/p1/p1/SudokuGrid.h
+string
+-
+mutex
+-
+thread
+-
+
