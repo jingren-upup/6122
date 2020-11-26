@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/6122/lab2/MyGrid.cpp
+MyGrid.h
+E:/6122/lab2/MyGrid.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+E:/6122/lab2/MyGrid.h
+vector
+-
+string
+-
+fstream
+-
+
+E:/6122/lab2/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+MyGrid.h
+E:/6122/lab2/MyGrid.h
+
