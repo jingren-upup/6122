@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/6122/lab3/p2/Lab3Prob2.cpp
+omp.h
+-
+iostream
+-
+random
+-
+fstream
+-
+chrono
+-
+set
+-
+cstring
+-
+iomanip
+-
+

@@ -1,0 +1,5 @@
+"E:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\6122\lab3\p2
+OPENMP FOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/6122/lab3/p2/cmake-build-debug
