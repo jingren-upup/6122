@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Mygrid.cpp
+C:\Users\1\Desktop\gaytech_lesson\研一上\6122\project\lab0\ConsoleApplication2\Mygrid.cpp(76): error C4716: “MyGrid::operator+”: 必须返回一个值
+C:\Users\1\Desktop\gaytech_lesson\研一上\6122\project\lab0\ConsoleApplication2\Mygrid.cpp(75): error C4716: “MyGrid::operator-”: 必须返回一个值
+C:\Users\1\Desktop\gaytech_lesson\研一上\6122\project\lab0\ConsoleApplication2\Mygrid.cpp(82): error C4716: “MyGrid::operator+=”: 必须返回一个值
+C:\Users\1\Desktop\gaytech_lesson\研一上\6122\project\lab0\ConsoleApplication2\Mygrid.cpp(79): error C4716: “operator+”: 必须返回一个值
