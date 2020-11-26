@@ -1,0 +1,43 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: E:/CLion 2020.2/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "E:/6122/lab1/q2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: E:/CLion 2020.2/mingw64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "E:/6122/lab1/q2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/6122/lab1/q2/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):E:/CLion 2020.2/mingw64/bin/mingw32-make.exe cmTC_36109/fast && E:/CLion 2020.2/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_36109.dir\build.make CMakeFiles/cmTC_36109.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/6122/lab1/q2/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_36109.dir/testCCompiler.c.obj
+"E:\CLion 2020.2\mingw64\bin\gcc.exe"    -o CMakeFiles\cmTC_36109.dir\testCCompiler.c.obj   -c E:\6122\lab1\q2\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_36109.exe
+"E:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_36109.dir\link.txt --verbose=1
+"E:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_36109.dir/objects.a
+"E:\CLion 2020.2\mingw64\bin\ar.exe" cr CMakeFiles\cmTC_36109.dir/objects.a @CMakeFiles\cmTC_36109.dir\objects1.rsp
+"E:\CLion 2020.2\mingw64\bin\gcc.exe"      -Wl,--whole-archive CMakeFiles\cmTC_36109.dir/objects.a -Wl,--no-whole-archive  -o cmTC_36109.exe -Wl,--out-implib,libcmTC_36109.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_36109.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'E:/6122/lab1/q2/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
