@@ -1,0 +1,3 @@
+"E:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\q4.dir/objects.a
+"E:\CLion 2020.2\mingw64\bin\ar.exe" cr CMakeFiles\q4.dir/objects.a @CMakeFiles\q4.dir\objects1.rsp
+"E:\CLion 2020.2\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\q4.dir/objects.a -Wl,--no-whole-archive  -o q4.exe -Wl,--out-implib,libq4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\q4.dir\linklibs.rsp
